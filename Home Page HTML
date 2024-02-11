@@ -1,0 +1,81 @@
+<!--Jody Willems 2/10/2024-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="HomeCSS.css">
+<script id="script" src="5.1.js" ></script>
+</head>
+<body>
+<header>
+    <h1 style="text-align: center; font-family: Britannic;">Final Project for Intro to Programming</h1>
+    <p>This table gives a brief overview of each assignment from this class.</p>
+</header>
+<nav>
+    <h2>
+        <nav> <!-- Navigation links to all the pages we made in this class-->
+            <a href="./Index.htm">Index</a><br>
+            <a href="./Boards.html">Boards</a><br>
+            <a href="./DoubleCraps.html">Craps or Doubles!</a><br>
+            <a href="./palindromeStrings.htm">Palindromes</a><br>
+            <a href="./toadSound.htm">Secret Message</a><br>
+            <a href="./000.htm">Moving Meme</a><br> 
+        </nav>
+    </h2>
+</nav>
+<br>
+<!-- My first table!! This table briefly outlines our assignments and the content we have learned -->
+<table style="align-items: center;">
+    <tr>
+      <th style="font-size: 25px; text-shadow: 2px 3px 3px #032e45; color: #f878fa; background-image: linear-gradient(rgb(0, 234, 255), rgba(255, 0, 238, 0));">Page</th>
+      <th style="font-size: 25px; text-shadow: 2px 3px 3px #032e45; color: #f878fa; background-image: linear-gradient(rgb(0, 234, 255), rgba(255, 0, 238, 0));">Content</th>
+      <th style="font-size: 25px; text-shadow: 2px 3px 3px #032e45; color: #f878fa; background-image: linear-gradient(rgb(0, 234, 255), rgba(255, 0, 238, 0));">Code Learned</th>
+    </tr>
+    <tr>
+      <td>Index Page</td>
+      <td>A meme image and other basics</td>
+      <td>How to use simple HTML tags to insert images, headers, etc. 
+        Simple CSS to change font and color</td>
+    </tr>
+    <tr>
+      <td>Boards Page</td>
+      <td>A link to the degree I am currently working towards with UAT</td>
+      <td>How to use HTML tags to insert an external link along with 
+        additional simple styling with CSS & HTML</td>
+    </tr>
+    <tr>
+      <td>Game Page (Craps or Doubles!)</td>
+      <td>A basic working gambling game!</td>
+      <td>For this assignment, we learned to use JavaScript to code basic math, 
+        variables, and how to attach comments to various math equation outcomes</td>
+    </tr>
+    <tr>
+      <td>Palindrome Page</td>
+      <td>Check to see if your name is a palindrome!</td>
+      <td>How to use basic looping functions to assess user input to determine if 
+        said data is a palindrome! We also learned how to create user data entry feilds.</td>
+    </tr>
+    <tr>
+      <td>Secret Message Page</td>
+      <td>Background sound with a secret message!</td>
+      <td>How to create a simple form, create functions that assess user input to meet
+        specific criteria to reveal a secret message. We also learned how to give a page
+        background sound along with more in-depth CSS styling.</td>
+    </tr>
+    <tr>
+      <td>Moving Meme Page</td>
+      <td>Simple image animation</td>
+      <td>How to start and stop a simple image animation with buttons. This was was a bit 
+        tricky. I still have yet to figure out how to link the buttons to start and stop the 
+        animation.</td>
+    </tr>
+  </table>
+<br>
+<br>
+<footer style="color: black; font-size: 15px; font-family: Britannic; text-align: center;">
+    Jody Willems<br> 
+    University of Advancing Technology <br>
+    2625 W Baseline Rd, Tempe, AZ 85283
+</footer>
+    
+</body>
